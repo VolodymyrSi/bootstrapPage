@@ -1,0 +1,7 @@
+html {
+  box-sizing: border-box;
+}
+
+.btn-secondary {
+  background-color: #ff7f50;
+}
